@@ -1,0 +1,6 @@
+{
+  "name": "MEDISHOP by Taufiq",
+  "description": "Comprehensive Online Pharmacy E-commerce and Pharmacy Management System with separate secure Admin and Employee Panels with Role-Based Access Control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
